@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Platform Engineer with 5+ years of experience** running Azure Databricks platforms, governing data with Unity Catalog, and automating cloud delivery with Terraform and Azure DevOps. I like turning manual, error-prone platform work into repeatable, secure and cost-efficient pipelines.
+I'm a **Azure DevOps and Data Platform Engineer with 5+ years of experience** running Azure Databricks platforms, governing data with Unity Catalog, and automating cloud delivery with Terraform and Azure DevOps. I like turning manual, error-prone platform work into repeatable, secure and cost-efficient pipelines.
 
 Right now I'm a **Senior Azure DevOps and Data Platform Engineer at Tiger Analytics**, managing a 12-workspace Azure Databricks estate.
 
