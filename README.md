@@ -14,9 +14,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Azure DevOps and Data Platform Engineer with 5+ years of experience** running Azure Databricks platforms, governing data with Unity Catalog, and automating cloud delivery with Terraform and Azure DevOps. I like turning manual, error-prone platform work into repeatable, secure and cost-efficient pipelines.
+I'm an **Azure DevOps and Data Platform Engineer with 5+ years of experience** running Azure Databricks platforms, governing data with Unity Catalog, and automating cloud delivery with Terraform, Azure DevOps and **Python**. I like turning manual, error-prone platform work into repeatable, secure and cost-efficient pipelines.
 
 Right now I'm a **Senior Azure DevOps and Data Platform Engineer at Tiger Analytics**, managing a 12-workspace Azure Databricks estate.
+
+**What I do day to day**
+- ☁️ **Azure:** design and secure platforms on Azure Databricks, Data Factory, ADLS Gen2, AKS, Key Vault and Entra ID, with private networking (VNets, private endpoints, Azure Firewall) and cost governance through Azure Policy and budgets.
+- 🔁 **DevOps:** build multi-stage Azure DevOps YAML pipelines with approval gates, Databricks Asset Bundles and Terraform modules, so deployments are automated, tested and repeatable.
+- 🐍 **Python:** write Python and Bash automation using the Azure CLI and REST APIs for routine workspace and Azure operations.
+- 📟 **Reliability:** run Prometheus, Grafana and Datadog observability with runbooks and root-cause analysis to keep incidents low and recovery fast.
 
 ## 📈 Impact at a Glance
 
@@ -27,6 +33,8 @@ Right now I'm a **Senior Azure DevOps and Data Platform Engineer at Tiger Analyt
 | 🧱 **30+** | reusable Terraform modules for Databricks, Data Factory, ADLS Gen2, Azure ML and Key Vault |
 | 🚨 **95% SLA** | across 40+ production incidents, using runbooks and root-cause analysis |
 | 🚀 **99.9%** | deployment success rate across 50+ production releases and hotfixes |
+| 🐍 **Python + Bash** | automation using the Azure CLI and REST APIs for routine workspace and Azure operations |
+| 🔐 **12 workspaces** | secured with private endpoints, private DNS, VNets and Key Vault-backed secrets, with no hard-coded credentials |
 | ☁️ **40–60%** | lower monthly Azure spend through Azure Policy, RBAC, tagging and budget alerts |
 
 ## 💼 Experience
@@ -35,6 +43,7 @@ Right now I'm a **Senior Azure DevOps and Data Platform Engineer at Tiger Analyt
 - Configured **Unity Catalog** across 12 Azure Databricks workspaces: metastores, catalogs, storage credentials and external locations.
 - Enforced **ABAC, row filters, column masks and governed tags**, and extended Delta Sharing and lineage for controlled cross-region data sharing.
 - Built **Terraform + Azure DevOps YAML** pipelines with remote state and approval-gated plan/apply stages.
+- Wrote **Python and Bash** automation with the Azure CLI and REST APIs for routine workspace and Azure operations.
 - Secured the platform with private endpoints, private DNS, Key Vault-backed secret scopes and Entra ID service principals, removing hard-coded secrets.
 
 **DevOps Engineer · Infosys** · Oct 2021 – Jan 2025
